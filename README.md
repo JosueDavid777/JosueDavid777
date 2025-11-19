@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://github.com/JosueDavid777/JosueDavid777/blob/main/fondo%20(2).gif" width="600">
+  <img src="https://raw.githubusercontent.com/JosueDavid777/JosueDavid777/main/fondo.gif" width="961" style="height:300px; object-fit:cover;">
 </p>
+
 <h3 align="center">Student at Electronic engineering/ Student programing 🤖🔌🚀💻.</h3>
 
 
@@ -11,6 +12,9 @@
 - ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
 
 <br>
+<p align="right">
+  <img src="https://raw.githubusercontent.com/JosueDavid777/JosueDavid777/main/fondo.gif" width="961" style="height:300px; object-fit:cover;">
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
