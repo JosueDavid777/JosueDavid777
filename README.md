@@ -1,11 +1,11 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/JosueDavid777/JosueDavid777/main/fondo.gif" width="600">
+</p>
+<p align="center">
+  <img src="" width="600">
+</p>
 <h1 align="center">Hi 👋, I'm Josue Olmos</h1>
 <h3 align="center">Student at Electronic engineering/ Student programing 🤖🔌🚀💻.</h3>
-
-<br>
-
-<br>
-
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 
 - 🌱 I’m currently learning Web Development and other programming languages
