@@ -1,9 +1,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/JosueDavid777/JosueDavid777/main/fondo.gif" width="600">
 </p>
-<p align="center">
-  <img src="" width="600">
-</p>
 <h1 align="center">Hi 👋, I'm Josue Olmos</h1>
 <h3 align="center">Student at Electronic engineering/ Student programing 🤖🔌🚀💻.</h3>
 
