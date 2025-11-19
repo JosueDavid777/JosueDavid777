@@ -13,7 +13,7 @@
 
 <br>
 <p align="right">
-  <img src="https://raw.githubusercontent.com/JosueDavid777/JosueDavid777/main/fondo.gif" width="961" style="height:300px; object-fit:cover;">
+  <img src="https://github.com/JosueDavid777/JosueDavid777/blob/main/Coding%20The%20Matrix%20GIF.gif" width="961" style="height:300px; object-fit:cover;">
 </p>
 
 <h3 align="left">Connect with me:</h3>
