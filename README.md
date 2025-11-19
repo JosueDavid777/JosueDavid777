@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/JosueDavid777/JosueDavid777/main/fondo.gif" width="961" style="height:300px; object-fit:cover;">
+  <img src="https://github.com/JosueDavid777/JosueDavid777/blob/main/CAT.gif" width="961" style="height:300px; object-fit:cover;">
 </p>
 
 <h3 align="center">Student at Electronic engineering/ Student programing 🤖🔌🚀💻.</h3>
