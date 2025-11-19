@@ -10,12 +10,7 @@
 - 📫 How to reach me **josueddavid3@gmail.com**
 
 - ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
-
 <br>
-<p align="right">
-  <img src="https://github.com/JosueDavid777/JosueDavid777/blob/main/Coding%20The%20Matrix%20GIF.gif" width="961" style="height:300px; object-fit:cover;">
-</p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/josue-david-olmos-106845345/"><img align="center"
@@ -57,24 +52,5 @@
       width="40" height="40" /> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
        /> </a> </p>
 
-<br>
-
-<h3>Statistical Data :-</h3>
-<p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=adam-pw&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="JosueDavid777" 
-    bg_color=#808080/></p>
-
-<br>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adam-pw&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="adam-pw" /></p>
-
-<br>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Adam-pw&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="adam-pw" /></p>
-      
-<p align="left"> <a href="https://twitter.com/" target="blank"><img
-      src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 [JosueDavid777](https://github.com/JosueDavid777)
