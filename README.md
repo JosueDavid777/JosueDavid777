@@ -40,5 +40,23 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
       width="40" height="40" /> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
        /> </a> </p>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JosueDavid777)](https://github.com/JosueDavid777/github-readme-stats)
+
+<div align="center">
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=JosueDavid777&show_icons=true&theme=dark&title_color=20C20E&text_color=20C20E&icon_color=20C20E&border_color=20C20E" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosueDavid777&size_weight=0.5&count_weight=0.5&theme=dark&title_color=20C20E&text_color=20C20E&icon_color=20C20E&border_color=20C20E" />
+    </td>
+  </tr>
+</table>
+
+</div>
+
+
+
+
 [JosueDavid777](https://github.com/JosueDavid777)
