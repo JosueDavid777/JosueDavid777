@@ -48,7 +48,8 @@
       <img src="https://github-readme-stats.vercel.app/api?username=JosueDavid777&show_icons=true&theme=dark&title_color=20C20E&text_color=20C20E&icon_color=20C20E&border_color=20C20E" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosueDavid777&size_weight=0.5&count_weight=0.5&theme=dark&title_color=20C20E&text_color=20C20E&icon_color=20C20E&border_color=20C20E" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosueDavid777&size_weight=0.5&count_weight=0.5&theme=dark&title_color=20C20E&text_color=20C20E&icon_color=20C20E&border_color=20C20E" 
+       />
     </td>
   </tr>
 </table>
