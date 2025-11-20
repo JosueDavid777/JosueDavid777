@@ -4,14 +4,6 @@
 <p align="center">
   <img src="https://github.com/JosueDavid777/JosueDavid777/blob/main/green.png" width="961" style="height:50px; object-fit:cover;">
 </p>
-</h3>
-
-- 🌱 I’m currently learning Web Development and other programming languages
-
-- 📫 How to reach me **josueddavid3@gmail.com**
-
-- ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
-<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/josue-david-olmos-106845345/"><img align="center"
