@@ -45,16 +45,19 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=JosueDavid777&show_icons=true&theme=dark&title_color=20C20E&text_color=20C20E&icon_color=20C20E&border_color=20C20E" />
+      <img 
+        src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=JosueDavid777&show_icons=true&theme=chartreuse-dark"
+      />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosueDavid777&size_weight=0.5&count_weight=0.5&theme=dark&title_color=20C20E&text_color=20C20E&icon_color=20C20E&border_color=20C20E" 
-       />
+      <img 
+        src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=JosueDavid777&layout=compact&theme=chartreuse-dark"
+      />
     </td>
   </tr>
 </table>
 
-</div>
+
 
 
 
