@@ -4,6 +4,17 @@
 <p align="center">
   <img src="https://github.com/JosueDavid777/JosueDavid777/blob/main/green.png" width="961" style="height:50px; object-fit:cover;">
 </p>
+<p align="center">
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true">
+</p>
+<h3 align="left" style="color:#20E20C;">
+  ABOUT ME
+</h3>
+<h3 align="left" style="color:#20E20C;">
+  I’m a junior developer who’s constantly learning and growing 🚀.<br>
+  I have a strong passion for electronics ⚡🔧 and I’m currently studying Electronic Engineering 🎓.<br>
+  Even though I love hardware, I’m also very strong in programming 💻🔥 and always looking for ways to improve my skills.
+</h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/josue-david-olmos-106845345/"><img align="center"
