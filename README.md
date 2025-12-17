@@ -26,6 +26,7 @@
 </p>
 
 <!-- Languages and Tools (Clean version) -->
+
 <h3 align="left">💻 Languages and Tools:</h3>
 <p align="left">
   <!-- C++ -->
@@ -43,6 +44,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
   </a>
 </p>
+
 
 <h3 align="left"> ⚡ PCB Development Tools</h3>
 <p align="left">
