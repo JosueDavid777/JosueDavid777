@@ -46,17 +46,10 @@
 </p>
 
 
-<h3 align="left"> ⚡PCB Development Tools</h3>
-<p align="left">
-  <!-- KiCad -->
-  <a href="https://www.kicad.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/KiCad-Logo.svg" alt="KiCad" width="45" height="45" />
- </a>
-  <!-- EasyEDA -->
-  <a href="https://easyeda.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/easyeda.svg" alt="EasyEDA" width="40" height="40" />
-  </a>
-</p>
+### ⚡ PCB Development Tools
+
+![KiCad](https://img.shields.io/badge/KiCad-314CB6?style=for-the-badge&logo=kicad&logoColor=white)
+![EasyEDA](https://img.shields.io/badge/EasyEDA-1769FF?style=for-the-badge&logoColor=white)
 
 <!-- Removed: HTML, CSS, JavaScript, Java, React, Node, etc. -->
 
