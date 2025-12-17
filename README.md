@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/JosueDavid777/JosueDavid777/blob/main/CAT.gif" width="961" style="height:300px; object-fit:cover;">
+  <img src="https://github.com/JosueDavid777/JosueDavid777/blob/main/CatGift.gif" width="961" style="height:300px; object-fit:cover;">
 </p>
 <p align="center">
   <img src="https://github.com/JosueDavid777/JosueDavid777/blob/main/green.png" width="961" style="height:50px; object-fit:cover;">
