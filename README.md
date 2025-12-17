@@ -48,9 +48,8 @@
 <p align="left">
   <!-- KiCad -->
   <a href="https://www.kicad.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/kicad.svg" alt="KiCad" width="40" height="40" />
-  </a>
-
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/KiCad-Logo.svg" alt="KiCad" width="45" height="45" />
+ </a>
   <!-- EasyEDA -->
   <a href="https://easyeda.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/easyeda.svg" alt="EasyEDA" width="40" height="40" />
