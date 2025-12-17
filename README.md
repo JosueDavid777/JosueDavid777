@@ -26,7 +26,7 @@
 </p>
 
 <!-- Languages and Tools (Clean version) -->
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">💻 Languages and Tools:</h3>
 <p align="left">
   <!-- C++ -->
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
@@ -44,7 +44,7 @@
   </a>
 </p>
 
-<h3 align="left">PCB Development Tools:</h3>
+<h3 align="left"> ⚡ PCB Development Tools</h3>
 <p align="left">
   <!-- KiCad -->
   <a href="https://www.kicad.org/" target="_blank" rel="noreferrer">
