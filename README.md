@@ -55,21 +55,6 @@
 
 
 
-<table>
-  <tr>
-    <td>
-      <img 
-        src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=JosueDavid777&show_icons=true&theme=chartreuse-dark&title_color=20C20E&text_color=20C20E&icon_color=20C20E"
-      />
-    </td>
-    <td>
-      <img 
-        src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=JosueDavid777&layout=compact&theme=chartreuse-dark&title_color=20C20E&text_color=20C20E"
-      />
-    </td>
-  </tr>
-</table>
-
 
 
 
