@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://github.com/JosueDavid777/JosueDavid777/blob/main/CatGift.gif" width="961" style="height:300px; object-fit:cover;">
+  <img src="https://github.com/JosueDavid777/JosueDavid777/blob/main/CatGift.gif?raw=true" width="961">
 </p>
 <p align="center">
-  <img src="https://github.com/JosueDavid777/JosueDavid777/blob/main/green.png" width="961" style="height:50px; object-fit:cover;">
+  <img src="https://github.com/JosueDavid777/JosueDavid777/blob/main/green.png?raw=true" width="961">
 </p>
 <p align="center">
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true">
@@ -47,7 +47,7 @@
 </p>
 
 ### ⚡ PCB Development Tools
-![KiCad](https://img.shields.io/badge/KiCad-314CB6?style=for-the-badge&logo=kicad&logoColor=white)
-![Proteus](https://img.shields.io/badge/Proteus-1F4E8C?style=for-the-badge&logoColor=white)
+[![KiCad](https://img.shields.io/badge/KiCad-314CB6?style=for-the-badge&logo=kicad&logoColor=white)](https://www.kicad.org/)
+[![Proteus](https://img.shields.io/badge/Proteus-1F4E8C?style=for-the-badge&logoColor=white)](https://www.labcenter.com/)
 
 [JosueDavid777](https://github.com/JosueDavid777)
