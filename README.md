@@ -7,7 +7,7 @@
   <img src="https://github.com/JosueDavid777/JosueDavid777/blob/main/green.png?raw=true" width="961">
 </p>
 <p align="center">
-  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true">
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="200">
 </p>
 <h3 align="left" style="color:#20E20C;">
   ABOUT ME
