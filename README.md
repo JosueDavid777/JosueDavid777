@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/JosueDavid777/JosueDavid777/refs/heads/main/CatGift.gif" width="961">
+  <img src="CatGift.gif" width="961">
 </p>
 <p align="center">
   <img src="https://github.com/JosueDavid777/JosueDavid777/blob/main/green.png?raw=true" width="961">
