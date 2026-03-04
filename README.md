@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="CatGift.gif" 
+  <img src="CatGift (2).gif" 
      width="961"
      style="pointer-events: none;">
 </p>
