@@ -1,7 +1,7 @@
 <p align="center">
-  <video autoplay loop muted playsinline style="pointer-events:none;" width="961">
-  <source src="CatGift.mp4" type="video/mp4">
-</video>
+  <img src="CatGift.gif" 
+     width="961"
+     style="pointer-events: none;">
 </p>
 <p align="center">
   <img src="https://github.com/JosueDavid777/JosueDavid777/blob/main/green.png?raw=true" width="961">
